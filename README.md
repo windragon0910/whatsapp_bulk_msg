@@ -4,7 +4,7 @@ It is a python script that sends WhatsApp message automatically from WhatsApp we
 
 ## Note
 This is for saved contact numbers only if you want to send whatsapp bulk messages to unsaved or without saving the contact numbers. You may prefer another repository.
-* Repository: https://github.com/inforkgodara/whatsapp-bulk-messages-without-saving-contacts
+* Repository: https://github.com/windragon0910/whatsapp_bulk_msg
 
 ## Important
 * WhatsApp Business released API on May 2022, no longer needed this repository. You can accomplish your same requirements through WhatsApp Business APIs.
@@ -33,7 +33,7 @@ Note: If you wish to send an image instead of text you can write attachment sele
 ## Code
 ```
 # Program to send bulk customized message through WhatsApp web application
-# Author @inforkgodara
+# Author @windragon0910
 
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
